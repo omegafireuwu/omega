@@ -1,0 +1,9 @@
+
+[Cyrsed_Zombie]
+	#Enable or Disable the spawning and existence of the 'Cyrsed Zombie'
+	Cyrsed_Zombie_Enabled = true
+
+[Cyrsed_Steve]
+	#Enable or Disable the spawning and existence of the 'Cyrsed Steve'
+	Cyrsed_Steve_Enabled = true
+
