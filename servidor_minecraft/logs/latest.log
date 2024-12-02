@@ -61,3 +61,44 @@
 [02Dec2024 15:42:46.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteveEntity['Steve'/4766, l='ServerLevel[world]', x=299.77, y=74.25, z=1537.31] died: Steve was slain by itsalex
 [02Dec2024 15:50:50.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Teleported omegaoso33 to itsalex]
 [02Dec2024 15:51:53.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Teleported omegaoso33 to itsalex]
+[02Dec2024 15:54:52.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Teleported itsalex to omegaoso33]
+[02Dec2024 15:55:21.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: omegaoso33 lost connection: Disconnected
+[02Dec2024 15:55:21.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 left the game
+[02Dec2024 15:55:22.027] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 15:55:48.926] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77b01987[id=<null>,name=omegaoso33,properties={},legacy=false] (/127.116.153.30:48319) lost connection: Disconnected
+[02Dec2024 15:56:19.927] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c239abf[id=<null>,name=omegaoso33,properties={},legacy=false] (/127.116.153.30:56661) lost connection: Disconnected
+[02Dec2024 15:56:36.728] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ea80aa8[id=<null>,name=omegaoso33,properties={},legacy=false] (/127.207.184.13:39423) lost connection: Disconnected
+[02Dec2024 15:56:42.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dc692a5[id=<null>,name=omegaoso33,properties={},legacy=false] (/127.120.238.116:44905) lost connection: Disconnected
+[02Dec2024 15:56:49.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: omegaoso33[/127.37.208.60:60315] logged in with entity id 9634 at (689.9702903425607, 63.0, 2105.730299900347)
+[02Dec2024 15:56:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 joined the game
+[02Dec2024 15:57:18.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Summoned new Boiled One]
+[02Dec2024 15:58:17.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Set own game mode to Creative Mode]
+[02Dec2024 15:58:36.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Set own game mode to Survival Mode]
+[02Dec2024 15:58:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Set own game mode to Creative Mode]
+[02Dec2024 15:59:33.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of itsalex) moved wrongly! 0.3160178599939627
+[02Dec2024 15:59:38.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of itsalex) moved wrongly! 0.3181434819164224
+[02Dec2024 15:59:38.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of itsalex) moved wrongly! 0.487642701486493
+[02Dec2024 15:59:38.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of itsalex) moved wrongly! 0.7709294573644456
+[02Dec2024 15:59:38.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of itsalex) moved wrongly! 1.0731530986240614
+[02Dec2024 15:59:38.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of itsalex) moved wrongly! 1.390438525840068
+[02Dec2024 15:59:52.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itsalex was killed
+[02Dec2024 15:59:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 was killed
+[02Dec2024 15:59:52.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteveEntity['Steve'/11214, l='ServerLevel[world]', x=574.50, y=-15.00, z=1545.50] died: Steve was killed
+[02Dec2024 15:59:52.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteveEntity['Steve'/11375, l='ServerLevel[world]', x=590.50, y=-10.00, z=1523.50] died: Steve was killed
+[02Dec2024 15:59:52.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Killed 264 entities]
+[02Dec2024 16:00:17.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itsalex has completed the challenge [Cover Me in Debris]
+[02Dec2024 16:00:28.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: omegaoso33 has completed the challenge [Cover Me in Debris]
+[02Dec2024 16:00:39.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=741, y=71, z=510} BlockPos{x=739, y=69, z=509}
+[02Dec2024 16:00:40.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=71, z=509} BlockPos{x=736, y=69, z=509}
+[02Dec2024 16:00:40.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=71, z=509} BlockPos{x=736, y=69, z=509}
+[02Dec2024 16:00:40.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=71, z=509} BlockPos{x=736, y=69, z=509}
+[02Dec2024 16:00:43.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=739, y=71, z=511} BlockPos{x=740, y=69, z=512}
+[02Dec2024 16:01:28.055] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #forge:is_plains (minecraft:plains) took 100 ms
+[02Dec2024 16:01:29.516] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 92 ms
+[02Dec2024 16:01:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [itsalex: Teleported itsalex to 1287.500000, 70.000000, 603.500000]
+[02Dec2024 16:01:32.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Teleported omegaoso33 to 1284.500000, 70.000000, 603.500000]
+[02Dec2024 16:01:41.989] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 0 ms
+[02Dec2024 16:01:45.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itsalex has made the advancement [Monster Hunter]
+[02Dec2024 16:01:48.067] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 0 ms
+[02Dec2024 16:01:54.477] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 0 ms
+[02Dec2024 16:02:08.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [omegaoso33: Set own game mode to Survival Mode]
